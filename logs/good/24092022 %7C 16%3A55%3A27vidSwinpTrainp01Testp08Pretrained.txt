@@ -1,0 +1,853 @@
+-----------------------------------------------------------------------------------------
+16:55:27
+0%: mean loss-inf
+24%: mean loss-24.952959060668945
+49%: mean loss-13.86014175415039
+74%: mean loss-10.86581039428711
+98%: mean loss-9.296643257141113
+===============================================
+End of epoch 0, mean loss: 9.234740257263184
+===============================================
+train accuracy: 43.48363187152564
+test accuracy: 6.470588235294119
+0%: mean loss-inf
+24%: mean loss-16.112518310546875
+49%: mean loss-34.27499771118164
+74%: mean loss-27.531700134277344
+98%: mean loss-21.53963851928711
+===============================================
+End of epoch 1, mean loss: 21.350406646728516
+===============================================
+0%: mean loss-inf
+24%: mean loss-2.779472827911377
+49%: mean loss-4.859267711639404
+74%: mean loss-9.44221305847168
+98%: mean loss-8.316384315490723
+===============================================
+End of epoch 2, mean loss: 8.27801513671875
+===============================================
+0%: mean loss-inf
+24%: mean loss-2.93837571144104
+49%: mean loss-2.719169855117798
+74%: mean loss-4.245976448059082
+98%: mean loss-14.994962692260742
+===============================================
+End of epoch 3, mean loss: 15.251382827758789
+===============================================
+0%: mean loss-inf
+24%: mean loss-41.069580078125
+49%: mean loss-30.467235565185547
+74%: mean loss-26.061519622802734
+98%: mean loss-23.56631851196289
+===============================================
+End of epoch 4, mean loss: 23.53179359436035
+===============================================
+0%: mean loss-inf
+24%: mean loss-32.18708801269531
+49%: mean loss-20.65196418762207
+74%: mean loss-15.573941230773926
+98%: mean loss-12.535553932189941
+===============================================
+End of epoch 5, mean loss: 12.444979667663574
+===============================================
+train accuracy: 43.48363187152564
+test accuracy: 6.470588235294119
+0%: mean loss-inf
+24%: mean loss-2.633641004562378
+49%: mean loss-2.4199671745300293
+74%: mean loss-7.088659763336182
+98%: mean loss-16.537439346313477
+===============================================
+End of epoch 6, mean loss: 16.461444854736328
+===============================================
+0%: mean loss-inf
+24%: mean loss-52.429656982421875
+49%: mean loss-40.630985260009766
+74%: mean loss-28.7034969329834
+98%: mean loss-22.120248794555664
+===============================================
+End of epoch 7, mean loss: 21.922245025634766
+===============================================
+0%: mean loss-inf
+24%: mean loss-5.0399274826049805
+49%: mean loss-3.9561944007873535
+74%: mean loss-3.271040439605713
+98%: mean loss-5.470710277557373
+===============================================
+End of epoch 8, mean loss: 5.796985626220703
+===============================================
+0%: mean loss-inf
+24%: mean loss-34.22901916503906
+49%: mean loss-31.11736488342285
+74%: mean loss-22.94257354736328
+98%: mean loss-19.3533992767334
+===============================================
+End of epoch 9, mean loss: 19.201745986938477
+===============================================
+0%: mean loss-inf
+24%: mean loss-3.9503490924835205
+49%: mean loss-3.389780282974243
+74%: mean loss-3.2893126010894775
+98%: mean loss-16.142824172973633
+===============================================
+End of epoch 10, mean loss: 16.366989135742188
+===============================================
+train accuracy: 43.48363187152564
+test accuracy: 6.470588235294119
+0%: mean loss-inf
+24%: mean loss-24.815980911254883
+49%: mean loss-16.212398529052734
+74%: mean loss-13.304825782775879
+98%: mean loss-10.985143661499023
+===============================================
+End of epoch 11, mean loss: 10.913802146911621
+===============================================
+0%: mean loss-inf
+24%: mean loss-2.8832151889801025
+49%: mean loss-2.5392935276031494
+74%: mean loss-4.141688346862793
+98%: mean loss-5.882864475250244
+===============================================
+End of epoch 12, mean loss: 6.025854110717773
+===============================================
+0%: mean loss-inf
+24%: mean loss-49.625770568847656
+49%: mean loss-52.497596740722656
+74%: mean loss-41.00747299194336
+98%: mean loss-31.67801856994629
+===============================================
+End of epoch 13, mean loss: 31.38570213317871
+===============================================
+0%: mean loss-inf
+24%: mean loss-8.015573501586914
+49%: mean loss-6.18889045715332
+74%: mean loss-5.00098991394043
+98%: mean loss-4.297421455383301
+===============================================
+End of epoch 14, mean loss: 4.272838592529297
+===============================================
+0%: mean loss-inf
+24%: mean loss-3.9442567825317383
+49%: mean loss-8.673114776611328
+74%: mean loss-15.949312210083008
+98%: mean loss-25.578474044799805
+===============================================
+End of epoch 15, mean loss: 26.0704345703125
+===============================================
+train accuracy: 13.218035824583078
+test accuracy: 20.0
+0%: mean loss-inf
+24%: mean loss-26.3392333984375
+49%: mean loss-18.2994327545166
+74%: mean loss-15.57278060913086
+98%: mean loss-12.53365707397461
+===============================================
+End of epoch 16, mean loss: 12.454631805419922
+===============================================
+0%: mean loss-inf
+24%: mean loss-4.017705917358398
+49%: mean loss-3.7114503383636475
+74%: mean loss-4.931869029998779
+98%: mean loss-6.414417743682861
+===============================================
+End of epoch 17, mean loss: 6.507199764251709
+===============================================
+0%: mean loss-inf
+24%: mean loss-58.66774368286133
+49%: mean loss-79.72115325927734
+74%: mean loss-59.012603759765625
+98%: mean loss-45.34501266479492
+===============================================
+End of epoch 18, mean loss: 44.9310417175293
+===============================================
+0%: mean loss-inf
+24%: mean loss-2.502307891845703
+49%: mean loss-10.828630447387695
+74%: mean loss-9.998150825500488
+98%: mean loss-8.200133323669434
+===============================================
+End of epoch 19, mean loss: 8.138537406921387
+===============================================
+0%: mean loss-inf
+24%: mean loss-2.658668041229248
+49%: mean loss-2.6270670890808105
+74%: mean loss-4.412630081176758
+98%: mean loss-9.042048454284668
+===============================================
+End of epoch 20, mean loss: 9.475523948669434
+===============================================
+train accuracy: 43.48363187152564
+test accuracy: 6.470588235294119
+0%: mean loss-nan
+24%: mean loss-45.25564956665039
+49%: mean loss-34.62911605834961
+74%: mean loss-26.77976417541504
+98%: mean loss-22.85210418701172
+===============================================
+End of epoch 21, mean loss: 22.736787796020508
+===============================================
+0%: mean loss-inf
+24%: mean loss-9.489352226257324
+49%: mean loss-7.921603679656982
+74%: mean loss-10.352227210998535
+98%: mean loss-14.880481719970703
+===============================================
+End of epoch 22, mean loss: 14.880751609802246
+===============================================
+0%: mean loss-inf
+24%: mean loss-18.414901733398438
+49%: mean loss-14.185117721557617
+74%: mean loss-15.57919979095459
+98%: mean loss-17.839967727661133
+===============================================
+End of epoch 23, mean loss: 18.042543411254883
+===============================================
+0%: mean loss-inf
+24%: mean loss-18.331945419311523
+49%: mean loss-14.94764518737793
+74%: mean loss-13.89393424987793
+98%: mean loss-12.439799308776855
+===============================================
+End of epoch 24, mean loss: 12.379281044006348
+===============================================
+0%: mean loss-inf
+24%: mean loss-8.282706260681152
+49%: mean loss-27.103317260742188
+74%: mean loss-23.173236846923828
+98%: mean loss-20.7476806640625
+===============================================
+End of epoch 25, mean loss: 20.57728385925293
+===============================================
+train accuracy: 15.132798023471278
+test accuracy: 30.58823529411765
+0%: mean loss-inf
+24%: mean loss-17.271894454956055
+49%: mean loss-16.82961654663086
+74%: mean loss-14.3296537399292
+98%: mean loss-11.49018669128418
+===============================================
+End of epoch 26, mean loss: 11.399950981140137
+===============================================
+0%: mean loss-inf
+24%: mean loss-4.097559928894043
+49%: mean loss-5.620228290557861
+74%: mean loss-14.488405227661133
+98%: mean loss-14.893491744995117
+===============================================
+End of epoch 27, mean loss: 14.790441513061523
+===============================================
+0%: mean loss-inf
+24%: mean loss-6.421858787536621
+49%: mean loss-14.312531471252441
+74%: mean loss-15.313651084899902
+98%: mean loss-12.939385414123535
+===============================================
+End of epoch 28, mean loss: 12.849164009094238
+===============================================
+0%: mean loss-inf
+24%: mean loss-4.87524938583374
+49%: mean loss-6.625499725341797
+74%: mean loss-6.9201531410217285
+98%: mean loss-12.751112937927246
+===============================================
+End of epoch 29, mean loss: 12.94037914276123
+===============================================
+0%: mean loss-inf
+24%: mean loss-30.13944435119629
+49%: mean loss-19.31387710571289
+74%: mean loss-15.179394721984863
+98%: mean loss-13.251226425170898
+===============================================
+End of epoch 30, mean loss: 13.217244148254395
+===============================================
+train accuracy: 15.132798023471278
+test accuracy: 30.58823529411765
+0%: mean loss-inf
+24%: mean loss-7.9754638671875
+49%: mean loss-11.389832496643066
+74%: mean loss-12.972238540649414
+98%: mean loss-16.152931213378906
+===============================================
+End of epoch 31, mean loss: 16.237159729003906
+===============================================
+0%: mean loss-nan
+24%: mean loss-22.660085678100586
+49%: mean loss-30.992286682128906
+74%: mean loss-30.918323516845703
+98%: mean loss-31.63856315612793
+===============================================
+End of epoch 32, mean loss: 31.427688598632812
+===============================================
+0%: mean loss-inf
+24%: mean loss-8.27969741821289
+49%: mean loss-10.821210861206055
+74%: mean loss-9.134814262390137
+98%: mean loss-8.295578956604004
+===============================================
+End of epoch 33, mean loss: 8.26637077331543
+===============================================
+0%: mean loss-inf
+24%: mean loss-5.4876813888549805
+49%: mean loss-5.667782306671143
+74%: mean loss-7.962698936462402
+98%: mean loss-8.92357349395752
+===============================================
+End of epoch 34, mean loss: 9.083996772766113
+===============================================
+0%: mean loss-inf
+24%: mean loss-23.358644485473633
+49%: mean loss-18.202045440673828
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 35, mean loss: nan
+===============================================
+train accuracy: 10.19147621988882
+test accuracy: 7.647058823529412
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 36, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 37, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 38, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 39, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 40, mean loss: nan
+===============================================
+train accuracy: 10.19147621988882
+test accuracy: 7.647058823529412
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 41, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 42, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 43, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 44, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 45, mean loss: nan
+===============================================
+train accuracy: 10.19147621988882
+test accuracy: 7.647058823529412
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 46, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 47, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 48, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 49, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 50, mean loss: nan
+===============================================
+train accuracy: 10.19147621988882
+test accuracy: 7.647058823529412
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 51, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 52, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 53, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 54, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 55, mean loss: nan
+===============================================
+train accuracy: 10.19147621988882
+test accuracy: 7.647058823529412
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 56, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 57, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 58, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 59, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 60, mean loss: nan
+===============================================
+train accuracy: 10.19147621988882
+test accuracy: 7.647058823529412
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 61, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 62, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 63, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 64, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 65, mean loss: nan
+===============================================
+train accuracy: 10.19147621988882
+test accuracy: 7.647058823529412
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 66, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 67, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 68, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 69, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 70, mean loss: nan
+===============================================
+train accuracy: 10.19147621988882
+test accuracy: 7.647058823529412
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 71, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 72, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 73, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 74, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 75, mean loss: nan
+===============================================
+train accuracy: 10.19147621988882
+test accuracy: 7.647058823529412
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 76, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 77, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 78, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 79, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 80, mean loss: nan
+===============================================
+train accuracy: 10.19147621988882
+test accuracy: 7.647058823529412
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 81, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 82, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 83, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 84, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 85, mean loss: nan
+===============================================
+train accuracy: 10.19147621988882
+test accuracy: 7.647058823529412
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 86, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 87, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 88, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 89, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 90, mean loss: nan
+===============================================
+train accuracy: 10.19147621988882
+test accuracy: 7.647058823529412
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 91, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 92, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 93, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 94, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 95, mean loss: nan
+===============================================
+train accuracy: 10.19147621988882
+test accuracy: 7.647058823529412
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 96, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 97, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 98, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 99, mean loss: nan
+===============================================
+0%: mean loss-nan
+24%: mean loss-nan
+49%: mean loss-nan
+74%: mean loss-nan
+98%: mean loss-nan
+===============================================
+End of epoch 100, mean loss: nan
+===============================================
+train accuracy: 10.19147621988882
+test accuracy: 7.647058823529412
+---------------------file close-------------------------------
