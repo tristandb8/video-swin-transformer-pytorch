@@ -75,7 +75,7 @@ def main(argv):
 
     num_classes = 8
     bs = 1
-    num_epochs = 31
+    num_epochs = 61
 
     train_dataset = ek_train(shuffle = True, trainKitchen = trainKitchen)
     train_dataloader = DataLoader(train_dataset, batch_size=bs, shuffle=True, num_workers=8, collate_fn=collate_fn2, drop_last = True)
@@ -83,12 +83,15 @@ def main(argv):
     #dummy_x = torch.rand(bs, 3, 10, 224, 224).cuda()
     model = VIDEO_SWIN(num_classes = num_classes).cuda()
     criterion = nn.CrossEntropyLoss()
-    optimizer = torch.optim.SGD(model.parameters(), lr=1e-4, momentum=0.95)
+    optimizer = torch.optim.SGD(model.parameters(), lr=2e-4)
     #optimizer = torch.optim.AdamW(model.parameters(), lr=1e-4, weight_decay=0.05)
     #optimizer = torch.optim.AdamW([10,20], lr=0.00001)
     #optimizer = torch.optim.AdamW(model.parameters(), lr=3e-4, betas=(0.9, 0.999), weight_decay=0.05)
-    #lr_sched = torch.optim.lr_scheduler.MultiStepLR(optimizer, [15,30,45])
-
+    print("optimizer")
+    print(optimizer)
+    lr_sched = torch.optim.lr_scheduler.MultiStepLR(optimizer, milestones=[15,30,45], gamma=0.3)
+    print("optimizer")
+    print(optimizer)
     #checkpoint = torch.load('./checkpoints/swin_base_patch244_window1677_sthv2.pth')
     #model.load_state_dict(checkpoint, strict=False)
 
@@ -96,7 +99,7 @@ def main(argv):
   
     for epoch in range(num_epochs):
         model, train_dataloader, criterion, optimizer = train_epoch(model, train_dataloader, criterion, optimizer, logFile, epoch, True)
-        optimizer.step()
+        lr_sched.step()
         if (epoch % 10 == 0):
             if (epoch > -1):
                 print("ENTERING EVALUATION")
