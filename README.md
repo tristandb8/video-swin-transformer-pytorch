@@ -17,8 +17,9 @@ Please refer to [Video-Swin-Transformer](https://github.com/SwinTransformer/Vide
 ### Inference
 
 To run main file:
+```
 python VidSwinMain.py --logFolder nameoffolderforlogstobesaved
-
+```
 Note that this code isn't yet prepared for other users.
 This repo doesn't include the dataloader files either. Waiting upon approval of paper by IROS conference
 
